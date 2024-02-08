@@ -27,3 +27,4 @@ iOSInjectionProject/
 ### Xcode Patch ###**/xcshareddata/WorkspaceSettings.xcsettings
 # End of https://www.gitignore.io/api/xcode,swift,firebase,cocoapods
 .DS_Store
+Icebreajer_S24_Rash.xcodeproj/*
