@@ -28,4 +28,3 @@ iOSInjectionProject/
 # End of https://www.gitignore.io/api/xcode,swift,firebase,cocoapods
 .DS_Store
 Icebreajer_S24_Rash.xcodeproj/*
-Icebreajer_S24_Rash/GoogleService-Info.plist
